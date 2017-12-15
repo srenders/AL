@@ -14,8 +14,7 @@
   "platform": "10.0.0.0",
   "application": {
     "version": "10.0.0.0",
-    "locale": "US"
+    "locale": "W1"
   },
-  "screenShots": [],
-  "packageCachePath": "../../resources"
+  "screenshots": []
 }
